@@ -1,4 +1,4 @@
-# HACS Sky Remote Card
+# Sky Remote Card
 
 Card to represent a Sky box remote for use with Sky Remote Control integration
 
